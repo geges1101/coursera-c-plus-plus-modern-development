@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/geges/CLionProjects/leetcode/binary_watch.cpp
+
+/Users/geges/CLionProjects/leetcode/palindrome_partitioning.cpp
+
+/Users/geges/CLionProjects/leetcode/substring graph.cpp
+vector
+-
+iostream
+-
+unordered_map
+-
+unordered_set
+-
+
